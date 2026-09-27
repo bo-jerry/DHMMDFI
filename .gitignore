@@ -1,0 +1,37 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Runtime outputs
+code/results/
+code/checkpoints/
+code/runs/
+*.log
+*.err
+
+# Generated model files
+*.pt
+*.pth
+*.ckpt
+
+# Local environments and secrets
+.env
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Not part of the standalone release
+image/
+.ipynb_checkpoints/
+*.tmp
+*.clean

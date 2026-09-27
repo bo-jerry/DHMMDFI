@@ -1,0 +1,16 @@
+# DHMMDFI dependencies
+# Quick start: pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.0.1
+
+# Numerical computing and data loading
+numpy>=1.23,<2.0
+pandas>=2.0
+scipy>=1.9
+
+# Metrics and data utilities
+scikit-learn>=1.2
+
+# Molecular feature generation
+rdkit>=2024.3

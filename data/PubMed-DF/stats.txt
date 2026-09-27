@@ -1,0 +1,8 @@
+Dataset: pubmed
+Data root: C:\Users\10548\Desktop\DFI-Main\HeCo-main\data1
+Clean mode: strict
+Drug scope: dfc
+Nodes: Drug=306, Food=501, FC=1312
+Edges: D-F=10300, D-FC=33763, F-FC=59267
+Meta-paths: D-F-D=41864, D-FC-D=44901, FC-D-FC=686364, FC-F-FC=102338
+Multi-hop: 3 hops

@@ -1,0 +1,8 @@
+Dataset: drugbank
+Data root: C:\Users\10548\Desktop\DFI-Main\HeCo-main\data1
+Clean mode: strict
+Drug scope: dfc
+Nodes: Drug=605, Food=480, FC=35
+Edges: D-F=13396, D-FC=1412, F-FC=4657
+Meta-paths: D-F-D=87849, D-FC-D=82899, FC-D-FC=175, FC-F-FC=121
+Multi-hop: 3 hops
